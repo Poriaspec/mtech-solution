@@ -113,11 +113,11 @@ function HomePage() {
 
       <h2 class="text-left pt-10 lg:text-xl text-x font-semibold pl-3 pr-3"> We are a leading provider of mobile technology solutions for your businesses, households and industries. </h2>
       
-      <button class="pl-3 pt-10"><a href="#secondSection" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-2 px-4 border dark:border-white border-green rounded- ">Learn more</a></button>
+      <button class="pl-3 pt-10"><a href="#secondSection" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-3 px-4 border dark:border-white border-green rounded- ">Learn more</a></button>
 
       <div class="bg-white rounded border border-green dark:border-white flex items-center justify-between lg:mt-10 mt-12 ml-3 lg:w-3/5">
         <input type="email" placeholder=" Enter Email Address" class="bg-transparent dark:text-green text-gray-600 px-4 focus:outline-none w-1/2" /> 
-        <button class="py-2 px-4 bg-white dark:hover:text-grey dark:bg-green dark:text-white rounded-r border-l border-green hover:text-grey active:bg-grey disabled:opacity-50 inline-flex items-center focus:outline-none">Get Free Access</button>
+        <button class="py-4 px-4 bg-white dark:hover:text-grey dark:bg-green dark:text-white rounded-r border-l border-green hover:text-grey active:bg-grey disabled:opacity-50 inline-flex items-center focus:outline-none">Get Free Access</button>
       </div>
 
 
@@ -172,21 +172,21 @@ function HomePage() {
         <img src={Mpos} alt="" class="h-4/5 md:h-3/5 md:w-3/5 w-full block m-auto p-6"/>
         <h1 class="lg:p-3 p-6 text-x font-black">Mobile Point of Sale</h1>
         <p class="lg:p-3 p-6"> With our Mobile Point of Sale System, you can create an online store, manage multiple offline store(s) and increase your business sales and revenue, from your mobile phone or PC.</p>
-        <button class="pl-3 pt-5"><a href="https://mpos-7443c.web.app/" target="_blank" rel="noreferrer" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-2 px-4 border dark:border-white border-green rounded- ">Learn more</a></button> 
+        <button class="pl-3 pt-5"><a href="https://mpos-7443c.web.app/" target="_blank" rel="noreferrer" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-4 px-4 border dark:border-white border-green rounded- ">Learn more</a></button> 
       </div>
 
       <div class="p-6">
         <img src={Crm} alt="" class="h-4/5 md:h-3/5 md:w-3/5 w-full block m-auto p-6"/>
         <h1 class="lg:p-3 p-6 text-x font-black">Customer Relationship Management (CRM)</h1>
         <p  class="lg:p-3 p-6"> The need for a great customer service in every business cannot be overemphasized, that is why we have created various tools to help you build and manage your customer relations. </p>
-        <button class="pl-3 pt-5"><a href="https://mpos-7443c.web.app/" target="_blank" rel="noreferrer" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-2 px-4 border dark:border-white border-green rounded- ">Learn more</a></button> 
+        <button class="pl-3 pt-5"><a href="https://mpos-7443c.web.app/" target="_blank" rel="noreferrer" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-4 px-4 border dark:border-white border-green rounded- ">Learn more</a></button> 
       </div>
 
       <div class="p-6">
         <img src={Automated} alt="" class="h-4/5  md:h-3/5 md:w-3/5 w-full block m-auto p-6"/>
         <h1  class="lg:p-3 p-6 text-x font-black">Automated Mobile</h1>
         <p class="lg:p-3 p-6">Imagine a world where you can control and track your car, gate, doors and home appliances from your mobile phone. With Automated Mobile you can achieve this and more.</p>
-        <button class="pl-3 pt-5"><a href="https://mpos-7443c.web.app/" target="_blank" rel="noreferrer" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-2 px-4 border dark:border-white border-green rounded- ">Learn more</a></button> 
+        <button class="pl-3 pt-5"><a href="https://mpos-7443c.web.app/" target="_blank" rel="noreferrer" class="bg-green dark:outline-white dark:bg-transparent text-white hover:text-grey font-bold py-4 px-4 border dark:border-white border-green rounded- ">Learn more</a></button> 
       </div>
 
      </div>
@@ -201,9 +201,9 @@ function HomePage() {
   
     <div class="text-center pt-24">
     <h1 class="text-center lg:text-xxl text-xl font-black">Product Features</h1>
-    <p class="pt-10 lg:text-xl text-x font-semibold ">All our products have a wide range of features for you to utilize to grow your business and live smarter.</p>
-    <p  class="pt-5 lg:text-xx text-x font-semibold "> Every solution is built to work on both your laptop and mobile phone.</p>
-    <p  class="pt-5 lg:text-xx text-x font-semibold "> Our softwares are Fast, Responsive and easy to navigate.</p>
+    <p class="pt-10 lg:text-xl text-x px-5 font-semibold ">All our products have a wide range of features for you to utilize to grow your business and live smarter.</p>
+    <p  class="pt-5 lg:text-xx text-x px-5 font-semibold "> Every solution is built to work on both your laptop and mobile phone.</p>
+    <p  class="pt-5 lg:text-xx text-x  px-5 font-semibold "> Our softwares are Fast, Responsive and easy to navigate.</p>
     </div>
 
 
@@ -397,34 +397,34 @@ function HomePage() {
                 <div>
 
                 <div class="flex pt-3">
-                <GrFormCheckmark class="w-10 h-10 text-black"/>
+                <GrFormCheckmark class="lg:w-10 lg:h-10 w-14 h-14 text-black"/>
                 <p>Make your car smarter and safer. Control and track it from your mobile phone, regardless of your current location .</p>
                 </div>
 
 
                 <div class="flex pt-3">
-                <GrFormCheckmark class="w-6 h-6 text-black"/>
+                <GrFormCheckmark class="lg:w-6 lg:h-6 w-10 h-10 text-black"/>
                 <p>Find your parking spot, monitor drivers, and get directions to your car at a glance.</p>
                 </div>
 
                 <div class="flex pt-3">
-                <GrFormCheckmark class="w-6 h-6 text-black"/>
+                <GrFormCheckmark class="lg:w-6 lg:h-6 w-10 h-10 text-black"/>
                 <p class="">Control and gain access to your gates and doors from anywhere in the world.</p>
                 </div>
 
                 <div class="flex pt-3">
-                <GrFormCheckmark class="w-6 h-6 text-black"/>
+                <GrFormCheckmark class="lg:w-6 lg:h-6 w-10 h-10 text-black"/>
                 <p class="">Power on/off your home appliances from your phone, anywhere, anytime.</p>
                 </div>
 
 
                 <div class="flex pt-3">
-                <GrFormCheckmark class="w-6 h-6 text-black"/>
+                <GrFormCheckmark class="lg:w-6 lg:h-6 w-7 h-7 text-black"/>
                 <p class="">our technology supports voice commands.</p>
                 </div>
 
                 <div class="flex pt-3">
-                <GrFormCheckmark class="w-6 h-6 text-black"/>
+                <GrFormCheckmark class="lg:w-6 lg:h-6 w-8 h-8 text-black"/>
                 <p class=""> The software is highly secure with 2-Factor authentication.</p>
                 </div>
 
