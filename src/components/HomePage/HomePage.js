@@ -123,15 +123,15 @@ function HomePage() {
 
       <div class="flex pt-3">
 
-            <a href="https://www.facebook.com/ENLIGHTENEERING/" target="_blank" rel="noreferrer" class="p-3 rounded-full bg-green dark:bg-white dark:text-green text-white m-3 hover:-translate-y-1 hover:scale-110">
+            <a href="https://www.instagram.com/mobile_tech_ng/" target="_blank" rel="noreferrer" class="p-3 rounded-full bg-green dark:bg-white dark:text-green text-white m-3 hover:-translate-y-1 hover:scale-110">
               <BsInstagram class="w-6 h-6 text-center block m-auto hover:scale-110 hover:text-grey" />
             </a>
 
-            <a href="https://www.linkedin.com/company/enlighteneering-inc-" target="_blank" rel="noreferrer" class="p-3 rounded-full bg-green dark:bg-white dark:text-green text-white m-3 hover:-translate-y-1 hover:scale-110">
+            <a href="https://twitter.com/mobile_tech_ng/" target="_blank" rel="noreferrer" class="p-3 rounded-full bg-green dark:bg-white dark:text-green text-white m-3 hover:-translate-y-1 hover:scale-110">
               <BsTwitter class="w-6 h-6 text-center block m-auto hover:scale-110 hover:text-grey"  />
             </a>
 
-            <a href="https://www.linkedin.com/company/enlighteneering-inc-" target="_blank" rel="noreferrer" class="p-3 rounded-full bg-green dark:bg-white dark:text-green text-white m-3 hover:-translate-y-1 hover:scale-110" >
+            <a href="https://www.facebook.com/profile.php?id=100087454950757" target="_blank" rel="noreferrer" class="p-3 rounded-full bg-green dark:bg-white dark:text-green text-white m-3 hover:-translate-y-1 hover:scale-110" >
               <BsFacebook class="w-6 h-6 text-center block m-auto hover:scale-110 hover:text-grey" />
             </a>
 
